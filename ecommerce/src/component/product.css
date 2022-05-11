@@ -1,0 +1,39 @@
+.card{
+    width: 200px;
+    justify-content: center;
+    border-radius: 0px;
+    border:  1px ;
+    background-color: rgb(248, 245, 245);
+    margin-left: 50px;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+
+.card:hover{
+
+    box-shadow: gray 5px 5px 15px;
+    transform: scaleZ(1.2);
+
+}
+.container-fluid1{
+       align-items:flex;
+       flex-direction: row;
+       margin: 100px;
+}
+
+.btn1{
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+    margin-left: 50px;
+    }
+.text{
+text-align: center;
+}
+.row{
+    margin-left: 100px;
+    display: flex;
+    flex-direction:row;
+   
+}

@@ -1,0 +1,41 @@
+.box1{
+    height: 400px;
+    width: 300px;
+    border: black 2px solid;
+    color: rgb(8, 8, 8);
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 40%;
+    background-color: white;
+    color: black;
+    margin-bottom: 60px;
+}
+.box1:hover{
+    box-shadow: gray 5px 5px 15px;
+    transform: scaleZ(1.2);
+
+}
+
+.btn2{
+    margin-left: 20px;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: black;
+    border: black 3px solid;
+}
+.form-control{
+    width: 250px;
+    border:black 2px solid;
+    margin-left: 20px;
+}
+
+.logo1{
+    height: 60px;
+    width: 150px;
+    margin-left: 45%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
